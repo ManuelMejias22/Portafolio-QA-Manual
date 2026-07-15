@@ -11,7 +11,7 @@ El alcance del proyecto abarca tres Historias de Usuario (Épica-gestión-de-tar
 ---
 
 ## Herramientas Utilizadas
-* **Documentación y Matrices:** Google Sheets / Microsoft Excel.
+* **Documentación y Matrices:** Google Sheets / Google Docs.
 * **Gestión de Versiones:** Git & GitHub.
 * **Técnicas de Caja Negra:** Partición de Equivalencia, Análisis de Valores Límite, Pruebas de Transición de Estados.
 
