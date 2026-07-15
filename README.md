@@ -5,7 +5,7 @@ Este repositorio contiene la documentación completa del ciclo de pruebas de sof
 
 El alcance del proyecto abarca tres Historias de Usuario (Épica-gestión-de-tarjetas):
 1. **HU-001:** Creación de Tarjetas (Camino feliz y restricciones de límites).
-2. **HU-002:** Modificación de detalles (Edición rápida, autoguardado, atajos de teclado y estados borrador).
+2. **HU-002:** Modificación de detalles (Edición rápida, autoguardado, atajos de teclado y descarte de edición).
 3. **HU-003:** Archivado y Eliminación Definitiva (Flujos de persistencia, restauración y confirmaciones visuales).
 
 ---
